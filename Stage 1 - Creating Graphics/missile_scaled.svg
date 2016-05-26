@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg4158"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="missile_scaled.svg"
+   inkscape:export-filename="E:\Game Development\Sample\missile_scaled.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4160">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4722"
+       x="-0.022921292"
+       width="1.0458426"
+       y="-0.025185252"
+       height="1.0503705">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.1176012"
+         id="feGaussianBlur4724" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="-13.112522"
+     inkscape:cy="12.3258"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="16,16"
+       orientation="1,0"
+       id="guide4166"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="16,16"
+       orientation="0,1"
+       id="guide4168"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="16,16"
+       orientation="1,0"
+       id="guide4170"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.0000001,8.0000002"
+       orientation="1,0"
+       id="guide4172"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.0000001,8.0000002"
+       orientation="0,1"
+       id="guide4174"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4722)"
+       id="path4176"
+       sodipodi:cx="8"
+       sodipodi:cy="1044.3622"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="6.7103462"
+       sodipodi:argument="-18.849556"
+       sodipodi:t0="0"
+       d="m 8,1044.3622 c 0.3364461,0 0.1659907,0.4535 0,0.5592 -0.4498243,0.2863 -0.9804828,-0.126 -1.118391,-0.5592 -0.2466856,-0.775 0.3794104,-1.5208 1.1183909,-1.6776 1.0844837,-0.2301 2.0706921,0.634 2.2367821,1.6776 0.221372,1.3909 -0.8887104,2.6243 -2.2367819,2.796 -1.6964103,0.216 -3.1798276,-1.1434 -3.3551732,-2.796 -0.212367,-2.0015 1.3980295,-3.7364 3.3551729,-3.9144 2.3064262,-0.2097 4.2935822,1.6527 4.4735642,3.9144 0.207796,2.6112 -1.907264,4.8512 -4.4735638,5.0327 -2.9159931,0.2063 -5.4091885,-2.1618 -5.5919554,-5.0327 -0.2050369,-3.2207 2.4164608,-5.9674 5.5919549,-6.1512 3.5254003,-0.204 6.5257213,2.6711 6.7103463,6.1512" />
+  </g>
+</svg>
